@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.Models;
 
 public class Player {
     public int id;
